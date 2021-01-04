@@ -193,6 +193,7 @@ Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture
 - [mljar.com](https://mljar.com)
 
 ## Blog posts
+- [Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approaches and Tools](https://paperswithcode.com/paper/towards-automated-machine-learning-evaluation)
 - [Neural Architecture Search](https://lilianweng.github.io/lil-log/2020/08/06/neural-architecture-search.html)
 - [A Conversation With Quoc Le: The AI Expert Behind Google AutoML](https://medium.com/syncedreview/a-conversation-with-quoc-le-the-ai-expert-behind-google-automl-73a7d0c9fe38)
 - [fast.ai: An Opinionated Introduction to AutoML and Neural Architecture Search](https://www.fast.ai/2018/07/12/auto-ml-1/)
