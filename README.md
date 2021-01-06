@@ -193,6 +193,7 @@ Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture
 - [mljar.com](https://mljar.com)
 
 ## Blog posts
+- [Exploratory Data Analysis](https://madewithml.com/courses/applied-ml/exploratory-data-analysis/)
 - [Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approaches and Tools](https://paperswithcode.com/paper/towards-automated-machine-learning-evaluation)
 - [Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approaches and Tools](https://deepai.org/publication/towards-automated-machine-learning-evaluation-and-comparison-of-automl-approaches-and-tools)
 - [Neural Architecture Search](https://lilianweng.github.io/lil-log/2020/08/06/neural-architecture-search.html)
